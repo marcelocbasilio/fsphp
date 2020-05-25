@@ -2,7 +2,7 @@
 require __DIR__ . '/../../fullstackphp/fsphp.php';
 fullStackPHPClassName("07.12 - Desmistificando rotas");
 
-require __DIR__ . "/../vendor/autoload.php";
+require __DIR__ . "/../vendor/autoload_fsphp.php";
 
 /*
  * [ routes ]

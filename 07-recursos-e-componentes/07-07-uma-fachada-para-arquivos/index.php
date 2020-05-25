@@ -2,7 +2,7 @@
 require __DIR__ . '/../../fullstackphp/fsphp.php';
 fullStackPHPClassName("07.07 - Uma fachada para arquivos");
 
-require __DIR__ . "/../vendor/autoload.php";
+require __DIR__ . "/../vendor/autoload_fsphp.php";
 
 /*
  * [ image ] Fachada para envio de imagens (jpg, png, gif)

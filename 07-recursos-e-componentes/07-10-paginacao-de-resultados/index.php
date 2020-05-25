@@ -2,7 +2,7 @@
 require __DIR__ . '/../../fullstackphp/fsphp.php';
 fullStackPHPClassName("07.10 - Paginador de resultados");
 
-require __DIR__ . "/../vendor/autoload.php";
+require __DIR__ . "/../vendor/autoload_fsphp.php";
 
 /*
  * [ paginator ] https://packagist.org/packages/coffeecode/paginator

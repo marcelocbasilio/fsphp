@@ -2,7 +2,7 @@
 require __DIR__ . '/../../fullstackphp/fsphp.php';
 fullStackPHPClassName("07.04 - Utilizando um componente");
 
-require __DIR__ . "/../vendor/autoload.php";
+require __DIR__ . "/../vendor/autoload_fsphp.php";
 
 /*
  * [ instance ] https://packagist.org/packages/phpmailer/phpmailer

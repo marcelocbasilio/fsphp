@@ -2,7 +2,7 @@
 require __DIR__ . '/../../fullstackphp/fsphp.php';
 fullStackPHPClassName("07.08 - Imagem, cache e miniaturas");
 
-require __DIR__ . "/../vendor/autoload.php";
+require __DIR__ . "/../vendor/autoload_fsphp.php";
 
 /*
  * [ cropper ] https://packagist.org/packages/coffeecode/cropper
