@@ -1,0 +1,26 @@
+{
+  "name": "marcelocbasilio/fsphp",
+  "description": "Formação Full Stack PHP Developer",
+  "minimum-stability": "stable",
+  "authors": [{
+    "name": "Marcelo C. Basílio",
+    "email": "marcelocbasilio@gmail.com",
+    "homepage": "https://www.marcelobasilio.com.br",
+    "role": "Developer"
+  }],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Support/Config.php",
+      "source/Support/Helpers.php"
+    ]
+  },
+  "require": {
+
+  }
+}
